@@ -1,0 +1,595 @@
+{
+  "makro": [
+    {
+      "kode_indikator": "MACRO-01",
+      "nama_indikator": "Indeks Pembangunan Manusia (IPM)",
+      "satuan": "Indeks",
+      "realisasi_2023": 70.32,
+      "realisasi_2024": 70.85,
+      "perubahan_persen": 0.75,
+      "kategori": "Tinggi"
+    },
+    {
+      "kode_indikator": "MACRO-02",
+      "nama_indikator": "Angka Kemiskinan",
+      "satuan": "Persen",
+      "realisasi_2023": 13.85,
+      "realisasi_2024": 13.41,
+      "perubahan_persen": -3.17,
+      "kategori": "Membaik"
+    },
+    {
+      "kode_indikator": "MACRO-03",
+      "nama_indikator": "Angka Pengangguran Terbuka (TPT)",
+      "satuan": "Persen",
+      "realisasi_2023": 1.74,
+      "realisasi_2024": 1.64,
+      "perubahan_persen": -5.74,
+      "kategori": "Membaik"
+    },
+    {
+      "kode_indikator": "MACRO-04",
+      "nama_indikator": "Pertumbuhan Ekonomi",
+      "satuan": "Persen",
+      "realisasi_2023": 4.96,
+      "realisasi_2024": 4.88,
+      "perubahan_persen": -1.61,
+      "kategori": "Stabil"
+    },
+    {
+      "kode_indikator": "MACRO-05",
+      "nama_indikator": "Pendapatan Per Kapita",
+      "satuan": "Juta Rp",
+      "realisasi_2023": 23.84,
+      "realisasi_2024": 25.42,
+      "perubahan_persen": 6.63,
+      "kategori": "Meningkat"
+    },
+    {
+      "kode_indikator": "MACRO-06",
+      "nama_indikator": "Ketimpangan Pendapatan (Gini Ratio)",
+      "satuan": "Indeks",
+      "realisasi_2023": 0.348,
+      "realisasi_2024": 0.301,
+      "perubahan_persen": -13.51,
+      "kategori": "Membaik"
+    }
+  ],
+  "anggaran": {
+    "total_anggaran_belanja": 2297834337189.00,
+    "total_realisasi_belanja": 2067506194111.49,
+    "persentase_total": 89.98,
+    "rincian_urusan": [
+      {
+        "kode_urusan": "01.01",
+        "perangkat_daerah": "Dinas Pendidikan dan Kebudayaan",
+        "alokasi_anggaran": 688013048887,
+        "realisasi": 659540926124,
+        "persentase": 95.86
+      },
+      {
+        "kode_urusan": "01.02",
+        "perangkat_daerah": "Dinas Kesehatan",
+        "alokasi_anggaran": 198873623238,
+        "realisasi": 150717385177,
+        "persentase": 75.78
+      },
+      {
+        "kode_urusan": "01.03",
+        "perangkat_daerah": "Dinas Pekerjaan Umum dan Penataan Ruang",
+        "alokasi_anggaran": 181879453675,
+        "realisasi": 123684935311,
+        "persentase": 68.00
+      },
+      {
+        "kode_urusan": "01.04",
+        "perangkat_daerah": "Dinas Perumahan Rakyat dan Kawasan Permukiman",
+        "alokasi_anggaran": 12452818548,
+        "realisasi": 10530655438,
+        "persentase": 84.56
+      }
+    ]
+  },
+  "ikk": [
+    {
+      "id": 1,
+      "kode_ikk": "IKK-EDU-01",
+      "urusan": "Pendidikan",
+      "indikator": "Tingkat partisipasi warga negara usia 5-6 tahun dalam PAUD",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 99.26,
+      "sumber_data": "DAPODIK, EMIS dan Data DUKCAPIL"
+    },
+    {
+      "id": 2,
+      "kode_ikk": "IKK-EDU-02",
+      "urusan": "Pendidikan",
+      "indikator": "Tingkat partisipasi warga negara usia 7-12 tahun dalam pendidikan dasar",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 98.99,
+      "sumber_data": "DAPODIK, EMIS dan Data DUKCAPIL"
+    },
+    {
+      "id": 3,
+      "kode_ikk": "IKK-EDU-03",
+      "urusan": "Pendidikan",
+      "indikator": "Tingkat partisipasi warga negara usia 13-15 tahun dalam SMP",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 99.97,
+      "sumber_data": "DAPODIK, EMIS dan Data DUKCAPIL"
+    },
+    {
+      "id": 4,
+      "kode_ikk": "IKK-EDU-04",
+      "urusan": "Pendidikan",
+      "indikator": "Tingkat partisipasi warga usia 7-18 tahun belum selesai dasar/menengah pada pendidikan kesetaraan",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 27.03,
+      "sumber_data": "DAPODIK"
+    },
+    {
+      "id": 5,
+      "kode_ikk": "IKK-HLT-01",
+      "urusan": "Kesehatan",
+      "indikator": "Rasio Daya Tampung Rumah Sakit Rujukan",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 0.07,
+      "sumber_data": "Data DUKCAPIL per Juni 2024"
+    },
+    {
+      "id": 6,
+      "kode_ikk": "IKK-HLT-02",
+      "urusan": "Kesehatan",
+      "indikator": "Persentase RS Rujukan Tingkat Kabupaten/Kota yang terakreditasi",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 100.0,
+      "sumber_data": "Dinas Kesehatan"
+    },
+    {
+      "id": 7,
+      "kode_ikk": "IKK-HLT-03",
+      "urusan": "Kesehatan",
+      "indikator": "Persentase ibu hamil mendapatkan pelayanan kesehatan ibu hamil",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 88.73,
+      "sumber_data": "Dinas Kesehatan"
+    },
+    {
+      "id": 8,
+      "kode_ikk": "IKK-HLT-04",
+      "urusan": "Kesehatan",
+      "indikator": "Persentase ibu bersalin mendapatkan pelayanan persalinan",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 88.35,
+      "sumber_data": "Dinas Kesehatan dan Faskes"
+    },
+    {
+      "id": 9,
+      "kode_ikk": "IKK-HLT-05",
+      "urusan": "Kesehatan",
+      "indikator": "Persentase bayi baru lahir mendapatkan pelayanan kesehatan",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 89.84,
+      "sumber_data": "Dinas Kesehatan dan Faskes"
+    },
+    {
+      "id": 10,
+      "kode_ikk": "IKK-HLT-06",
+      "urusan": "Kesehatan",
+      "indikator": "Cakupan pelayanan kesehatan balita sesuai standar",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 73.94,
+      "sumber_data": "Dinas Kesehatan"
+    },
+    {
+      "id": 11,
+      "kode_ikk": "IKK-HLT-07",
+      "urusan": "Kesehatan",
+      "indikator": "Persentase penderita hipertensi yang mendapatkan pelayanan kesehatan sesuai standar",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 100.0,
+      "sumber_data": "Dinas Kesehatan"
+    },
+    {
+      "id": 12,
+      "kode_ikk": "IKK-HLT-08",
+      "urusan": "Kesehatan",
+      "indikator": "Persentase penderita DM yang mendapatkan pelayanan kesehatan sesuai standar",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 100.0,
+      "sumber_data": "Dinas Kesehatan"
+    },
+    {
+      "id": 13,
+      "kode_ikk": "IKK-HLT-09",
+      "urusan": "Kesehatan",
+      "indikator": "Persentase orang terduga TBC mendapatkan pelayanan TBC sesuai standar",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 100.0,
+      "sumber_data": "Dinas Kesehatan"
+    },
+    {
+      "id": 14,
+      "kode_ikk": "IKK-PU-01",
+      "urusan": "Pekerjaan Umum dan Penataan Ruang",
+      "indikator": "Rasio luas kawasan permukiman rawan banjir yang terlindungi",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 4.96,
+      "sumber_data": "Dinas Pekerjaan Umum dan Penataan Ruang"
+    },
+    {
+      "id": 15,
+      "kode_ikk": "IKK-PU-02",
+      "urusan": "Pekerjaan Umum dan Penataan Ruang",
+      "indikator": "Rasio luas daerah irigasi kewenangan Kabupaten yang dilayani jaringan irigasi",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 20.69,
+      "sumber_data": "Dinas Pekerjaan Umum dan Penataan Ruang"
+    },
+    {
+      "id": 16,
+      "kode_ikk": "IKK-PU-03",
+      "urusan": "Pekerjaan Umum dan Penataan Ruang",
+      "indikator": "Persentase rumah tangga yang mendapatkan akses air minum melalui SPAM",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 84.92,
+      "sumber_data": "Persentase RT Pengguna SPAM"
+    },
+    {
+      "id": 17,
+      "kode_ikk": "IKK-PU-04",
+      "urusan": "Pekerjaan Umum dan Penataan Ruang",
+      "indikator": "Tingkat Kemantapan Jalan Kabupaten/Kota",
+      "satuan": "Persen",
+      "target": 65.0,
+      "capaian_realisasi": 58.36,
+      "sumber_data": "Dinas Pekerjaan Umum dan Penataan Ruang"
+    },
+    {
+      "id": 18,
+      "kode_ikk": "IKK-PU-05",
+      "urusan": "Pekerjaan Umum dan Penataan Ruang",
+      "indikator": "Rasio proyek kewenangan pengawasan tanpa kecelakaan konstruksi",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 100.0,
+      "sumber_data": "Dinas Pekerjaan Umum dan Penataan Ruang"
+    },
+    {
+      "id": 19,
+      "kode_ikk": "IKK-HOU-01",
+      "urusan": "Perumahan Rakyat",
+      "indikator": "Penyediaan dan rehabilitasi rumah layak huni bagi korban bencana",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 100.0,
+      "sumber_data": "DPRKPR"
+    },
+    {
+      "id": 20,
+      "kode_ikk": "IKK-HOU-02",
+      "urusan": "Perumahan Rakyat",
+      "indikator": "Berkurangnya jumlah unit Rumah Tidak Layak Huni (RTLH)",
+      "satuan": "Persen",
+      "target": 5.0,
+      "capaian_realisasi": 1.59,
+      "sumber_data": "DPRKPR"
+    },
+    {
+      "id": 21,
+      "kode_ikk": "IKK-HOU-03",
+      "urusan": "Perumahan Rakyat",
+      "indikator": "Jumlah perumahan yang sudah dilengkapi PSU",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 87.36,
+      "sumber_data": "DPRKPR"
+    },
+    {
+      "id": 22,
+      "kode_ikk": "IKK-TRB-01",
+      "urusan": "Ketenteraman dan Ketertiban Umum",
+      "indikator": "Persentase Gangguan Trantibum yang dapat diselesaikan",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 100.0,
+      "sumber_data": "Satpol PP dan Damkar"
+    },
+    {
+      "id": 23,
+      "kode_ikk": "IKK-TRB-02",
+      "urusan": "Ketenteraman dan Ketertiban Umum",
+      "indikator": "Persentase Perda dan Perkada yang ditegakkan",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 100.0,
+      "sumber_data": "Satpol PP dan Damkar"
+    },
+    {
+      "id": 24,
+      "kode_ikk": "IKK-TRB-03",
+      "urusan": "Ketenteraman dan Ketertiban Umum",
+      "indikator": "Jumlah warga negara yang memperoleh layanan informasi rawan bencana",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 93.61,
+      "sumber_data": "BPBD"
+    },
+    {
+      "id": 25,
+      "kode_ikk": "IKK-TRB-04",
+      "urusan": "Ketenteraman dan Ketertiban Umum",
+      "indikator": "Waktu tanggap (response time) penanganan kebakaran",
+      "satuan": "Menit",
+      "target": 15.0,
+      "capaian_realisasi": 10.56,
+      "sumber_data": "Satpol PP dan Damkar"
+    },
+    {
+      "id": 26,
+      "kode_ikk": "IKK-SOC-01",
+      "urusan": "Sosial",
+      "indikator": "Persentase penyandang disabilitas terlantar yang terpenuhi kebutuhan dasarnya",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 100.0,
+      "sumber_data": "Dinas Sosial"
+    },
+    {
+      "id": 27,
+      "kode_ikk": "IKK-SOC-02",
+      "urusan": "Sosial",
+      "indikator": "Persentase korban bencana alam yang terpenuhi kebutuhan dasarnya",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 100.0,
+      "sumber_data": "Dinas Sosial"
+    },
+    {
+      "id": 28,
+      "kode_ikk": "IKK-EMP-01",
+      "urusan": "Tenaga Kerja",
+      "indikator": "Persentase kegiatan yang dilaksanakan mengacu rencana tenaga kerja",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 86.67,
+      "sumber_data": "Disnakertrans"
+    },
+    {
+      "id": 29,
+      "kode_ikk": "IKK-EMP-02",
+      "urusan": "Tenaga Kerja",
+      "indikator": "Persentase Tenaga Kerja Bersertifikat Kompetensi",
+      "satuan": "Persen",
+      "target": 30.0,
+      "capaian_realisasi": 16.39,
+      "sumber_data": "Disnakertrans"
+    },
+    {
+      "id": 30,
+      "kode_ikk": "IKK-EMP-03",
+      "urusan": "Tenaga Kerja",
+      "indikator": "Persentase Tenaga Kerja Ditempatkan melalui Layanan Antar Kerja",
+      "satuan": "Persen",
+      "target": 50.0,
+      "capaian_realisasi": 38.69,
+      "sumber_data": "Disnakertrans"
+    },
+    {
+      "id": 31,
+      "kode_ikk": "IKK-WOM-01",
+      "urusan": "Pemberdayaan Perempuan dan Perlindungan Anak",
+      "indikator": "Persentase ARG pada belanja langsung APBD",
+      "satuan": "Persen",
+      "target": 15.0,
+      "capaian_realisasi": 9.33,
+      "sumber_data": "DP3AP2KB"
+    },
+    {
+      "id": 32,
+      "kode_ikk": "IKK-WOM-02",
+      "urusan": "Pemberdayaan Perempuan dan Perlindungan Anak",
+      "indikator": "Rasio kekerasan terhadap perempuan (per 100.000 penduduk)",
+      "satuan": "Orang",
+      "target": 2.0,
+      "capaian_realisasi": 4.18,
+      "sumber_data": "DP3AP2KB"
+    },
+    {
+      "id": 33,
+      "kode_ikk": "IKK-FOD-01",
+      "urusan": "Pangan",
+      "indikator": "Persentase ketersediaan cadangan beras/jagung sesuai kebutuhan",
+      "satuan": "Persen",
+      "target": 1.0,
+      "capaian_realisasi": 0.33,
+      "sumber_data": "DKPP"
+    },
+    {
+      "id": 34,
+      "kode_ikk": "IKK-ENV-01",
+      "urusan": "Lingkungan Hidup",
+      "indikator": "Indeks Kualitas Lingkungan Hidup (IKLH) Kabupaten",
+      "satuan": "Indeks",
+      "target": 70.0,
+      "capaian_realisasi": 64.78,
+      "sumber_data": "Dinas Lingkungan Hidup"
+    },
+    {
+      "id": 35,
+      "kode_ikk": "IKK-ENV-02",
+      "urusan": "Lingkungan Hidup",
+      "indikator": "Terlaksananya Pengelolaan Sampah di Wilayah Kabupaten",
+      "satuan": "Persen",
+      "target": 70.0,
+      "capaian_realisasi": 61.5,
+      "sumber_data": "Dinas Lingkungan Hidup"
+    },
+    {
+      "id": 36,
+      "kode_ikk": "IKK-ADM-01",
+      "urusan": "Administrasi Kependudukan dan Pencatatan Sipil",
+      "indikator": "Perekaman KTP Elektronik",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 99.5,
+      "sumber_data": "Disdukcapil"
+    },
+    {
+      "id": 37,
+      "kode_ikk": "IKK-ADM-02",
+      "urusan": "Administrasi Kependudukan dan Pencatatan Sipil",
+      "indikator": "Persentase Penduduk usia 0-18 tahun yang Mempunyai Akta Kelahiran",
+      "satuan": "Persen",
+      "target": 95.0,
+      "capaian_realisasi": 92.36,
+      "sumber_data": "Disdukcapil"
+    },
+    {
+      "id": 38,
+      "kode_ikk": "IKK-VIL-01",
+      "urusan": "Pemberdayaan Masyarakat dan Desa",
+      "indikator": "Persentase Pengentasan Desa Tertinggal",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 100.0,
+      "sumber_data": "DPMD"
+    },
+    {
+      "id": 39,
+      "kode_ikk": "IKK-VIL-02",
+      "urusan": "Pemberdayaan Masyarakat dan Desa",
+      "indikator": "Persentase Peningkatan Status Desa Mandiri",
+      "satuan": "Persen",
+      "target": 30.0,
+      "capaian_realisasi": 27.41,
+      "sumber_data": "DPMD"
+    },
+    {
+      "id": 40,
+      "kode_ikk": "IKK-TRN-01",
+      "urusan": "Perhubungan",
+      "indikator": "Rasio konektivitas Kabupaten/Kota",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 100.0,
+      "sumber_data": "Dinas Perhubungan"
+    },
+    {
+      "id": 41,
+      "kode_ikk": "IKK-COM-01",
+      "urusan": "Komunikasi dan Informatika",
+      "indikator": "Persentase OPD yang terhubung dengan akses internet terpusat",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 100.0,
+      "sumber_data": "Dinas Kominfo"
+    },
+    {
+      "id": 42,
+      "kode_ikk": "IKK-COP-01",
+      "urusan": "Koperasi dan UMKM",
+      "indikator": "Meningkatnya Koperasi yang berkualitas",
+      "satuan": "Persen",
+      "target": 50.0,
+      "capaian_realisasi": 49.2,
+      "sumber_data": "Dinas Koperasi dan Usaha Mikro"
+    },
+    {
+      "id": 43,
+      "kode_ikk": "IKK-INV-01",
+      "urusan": "Penanaman Modal",
+      "indikator": "Persentase peningkatan investasi di Kabupaten",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 108.15,
+      "sumber_data": "DPMPTSP"
+    },
+    {
+      "id": 44,
+      "kode_ikk": "IKK-CLT-01",
+      "urusan": "Kebudayaan",
+      "indikator": "Terlestarikannya Cagar Budaya",
+      "satuan": "Persen",
+      "target": 50.0,
+      "capaian_realisasi": 40.62,
+      "sumber_data": "Disdikbud"
+    },
+    {
+      "id": 45,
+      "kode_ikk": "IKK-LIB-01",
+      "urusan": "Perpustakaan",
+      "indikator": "Nilai tingkat kegemaran membaca masyarakat",
+      "satuan": "Persen",
+      "target": 70.0,
+      "capaian_realisasi": 62.2,
+      "sumber_data": "Disperpusip"
+    },
+    {
+      "id": 46,
+      "kode_ikk": "IKK-FSH-01",
+      "urusan": "Kelautan dan Perikanan",
+      "indikator": "Jumlah Total Produksi Perikanan (Tangkap dan Budidaya)",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 117.52,
+      "sumber_data": "Dinas Perikanan"
+    },
+    {
+      "id": 47,
+      "kode_ikk": "IKK-TOR-01",
+      "urusan": "Pariwisata",
+      "indikator": "Persentase peningkatan perjalanan wisatawan nusantara",
+      "satuan": "Persen",
+      "target": 20.0,
+      "capaian_realisasi": 21.22,
+      "sumber_data": "Disporapar"
+    },
+    {
+      "id": 48,
+      "kode_ikk": "IKK-AGR-01",
+      "urusan": "Pertanian",
+      "indikator": "Produktivitas pertanian per hektar per tahun",
+      "satuan": "Persen",
+      "target": 100.0,
+      "capaian_realisasi": 455.04,
+      "sumber_data": "DKPP"
+    },
+    {
+      "id": 49,
+      "kode_ikk": "IKK-TRD-01",
+      "urusan": "Perdagangan",
+      "indikator": "Persentase alat UTTP bertanda tera sah yang berlaku",
+      "satuan": "Persen",
+      "target": 80.0,
+      "capaian_realisasi": 79.35,
+      "sumber_data": "Disperindag"
+    },
+    {
+      "id": 50,
+      "kode_ikk": "IKK-IND-01",
+      "urusan": "Perindustrian",
+      "indikator": "Pertambahan jumlah industri kecil dan menengah di Kabupaten",
+      "satuan": "Persen",
+      "target": 10.0,
+      "capaian_realisasi": 10.04,
+      "sumber_data": "Disperindag"
+    }
+  ]
+}

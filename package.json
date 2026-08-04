@@ -1,0 +1,17 @@
+{
+  "name": "lppd-api",
+  "version": "1.0.0",
+  "description": "API Dummy LPPD Kabupaten Pamekasan",
+  "main": "api/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "keywords": ["lppd", "pamekasan", "express", "api"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
