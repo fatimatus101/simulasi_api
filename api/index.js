@@ -20,15 +20,12 @@ try {
   console.error("Gagal membaca lppd.json:", error);
 }
 
-// Endpoint Utama: Langsung menampilkan 50 Data IKK
+// Endpoint Utama: Menampilkan seluruh isi data lppd.json
 app.get("/", (req, res) => {
-  const dataIkk = lppdData.ikk || [];
-  
   res.json({
     status: "success",
     message: "API LPPD Kabupaten Pamekasan 2024",
-    total: dataIkk.length,
-    data: dataIkk
+    data: lppdData
   });
 });
 
